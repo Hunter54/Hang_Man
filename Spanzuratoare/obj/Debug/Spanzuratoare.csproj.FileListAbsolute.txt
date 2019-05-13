@@ -1,0 +1,141 @@
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\bin\Debug\pagini multiple.exe.config
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\bin\Debug\pagini multiple.exe
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\bin\Debug\pagini multiple.pdb
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csprojResolveAssemblyReference.cache
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Form1.resources
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Form2.resources
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.MyMessageBox.resources
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.Cache
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.CoreCompileInputs.cache
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\obj\Debug\pagini multiple.exe
+D:\Ionut programare\C#\Spanzuratoare\Spanzuratoare\obj\Debug\pagini multiple.pdb
+D:\12i\Spanzuratoare\Spanzuratoare\bin\Debug\pagini multiple.exe.config
+D:\12i\Spanzuratoare\Spanzuratoare\obj\Debug\pagini multiple.exe
+D:\12i\Spanzuratoare\Spanzuratoare\obj\Debug\pagini multiple.pdb
+D:\12i\Spanzuratoare\Spanzuratoare\bin\Debug\pagini multiple.exe
+D:\12i\Spanzuratoare\Spanzuratoare\bin\Debug\pagini multiple.pdb
+D:\12i\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csprojResolveAssemblyReference.cache
+D:\12i\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Form1.resources
+D:\12i\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Form2.resources
+D:\12i\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.MyMessageBox.resources
+D:\12i\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+D:\12i\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.Cache
+D:\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csprojResolveAssemblyReference.cache
+D:\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.MyMessageBox.resources
+D:\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+D:\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.cache
+D:\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.CoreCompileInputs.cache
+D:\12i\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csprojResolveAssemblyReference.cache
+D:\12i\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Form1.resources
+D:\12i\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Form2.resources
+D:\12i\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.MyMessageBox.resources
+D:\12i\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+D:\12i\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.Cache
+D:\12i\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe.config
+D:\12i\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+D:\12i\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+D:\12i\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.exe
+D:\12i\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.pdb
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe.config
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Newtonsoft.Json.dll
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Newtonsoft.Json.xml
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csprojResolveAssemblyReference.cache
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Meniu.resources
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Joc.resources
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.MyMessageBox.resources
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.Cache
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.CoreCompileInputs.cache
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.exe
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.pdb
+D:\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe.config
+D:\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+D:\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+D:\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Newtonsoft.Json.dll
+D:\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Newtonsoft.Json.xml
+D:\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Meniu.resources
+D:\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Joc.resources
+D:\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.CopyComplete
+D:\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.exe
+D:\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.pdb
+D:\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Cuvinte_usoare.txt
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\bin\Debug\Cuvinte_usoare.txt
+D:\Ionut programare\C#\Atestat\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Start.resources
+F:\Atestat-Info\Spanzuratoare\bin\Debug\Spanzuratoare.exe.config
+F:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.exe
+F:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.pdb
+F:\Atestat-Info\Spanzuratoare\bin\Debug\Cuvinte_usoare.txt
+F:\Atestat-Info\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+F:\Atestat-Info\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+F:\Atestat-Info\Spanzuratoare\bin\Debug\Newtonsoft.Json.dll
+F:\Atestat-Info\Spanzuratoare\bin\Debug\Newtonsoft.Json.xml
+F:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.csprojResolveAssemblyReference.cache
+F:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.Meniu.resources
+F:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.Joc.resources
+F:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.MyMessageBox.resources
+F:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+F:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.Start.resources
+F:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.Cache
+D:\Ionut programare\C#\Atestat\Spanzuratoare\bin\Debug\Spanzuratoare.exe.config
+D:\Ionut programare\C#\Atestat\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+D:\Ionut programare\C#\Atestat\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+D:\Ionut programare\C#\Atestat\Spanzuratoare\bin\Debug\Newtonsoft.Json.dll
+D:\Ionut programare\C#\Atestat\Spanzuratoare\bin\Debug\Newtonsoft.Json.xml
+D:\Ionut programare\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.csprojResolveAssemblyReference.cache
+D:\Ionut programare\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.Meniu.resources
+D:\Ionut programare\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.Joc.resources
+D:\Ionut programare\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.MyMessageBox.resources
+D:\Ionut programare\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+D:\Ionut programare\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.Start.resources
+D:\Ionut programare\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.Cache
+D:\Ionut programare\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.CoreCompileInputs.cache
+D:\Ionut programare\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.exe
+D:\Ionut programare\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.pdb
+H:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.csprojResolveAssemblyReference.cache
+H:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.Meniu.resources
+H:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.Joc.resources
+H:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.MyMessageBox.resources
+H:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+H:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.Start.resources
+H:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.Cache
+H:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.CoreCompileInputs.cache
+H:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.exe
+H:\Atestat-Info\Spanzuratoare\obj\Debug\Spanzuratoare.pdb
+H:\Atestat-Info\Spanzuratoare\bin\Debug\Spanzuratoare.exe.config
+H:\Atestat-Info\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+H:\Atestat-Info\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+H:\Atestat-Info\Spanzuratoare\bin\Debug\Newtonsoft.Json.dll
+H:\Atestat-Info\Spanzuratoare\bin\Debug\Newtonsoft.Json.xml
+H:\Atestat-Valase Ionut\Spanzuratoare\bin\Debug\Spanzuratoare.exe.config
+H:\Atestat-Valase Ionut\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+H:\Atestat-Valase Ionut\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+H:\Atestat-Valase Ionut\Spanzuratoare\bin\Debug\Newtonsoft.Json.dll
+H:\Atestat-Valase Ionut\Spanzuratoare\bin\Debug\Newtonsoft.Json.xml
+H:\Atestat-Valase Ionut\Spanzuratoare\obj\Debug\Spanzuratoare.csprojResolveAssemblyReference.cache
+H:\Atestat-Valase Ionut\Spanzuratoare\obj\Debug\Spanzuratoare.Meniu.resources
+H:\Atestat-Valase Ionut\Spanzuratoare\obj\Debug\Spanzuratoare.Joc.resources
+H:\Atestat-Valase Ionut\Spanzuratoare\obj\Debug\Spanzuratoare.MyMessageBox.resources
+H:\Atestat-Valase Ionut\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+H:\Atestat-Valase Ionut\Spanzuratoare\obj\Debug\Spanzuratoare.Start.resources
+H:\Atestat-Valase Ionut\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.Cache
+H:\Atestat-Valase Ionut\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.CoreCompileInputs.cache
+H:\Atestat-Valase Ionut\Spanzuratoare\obj\Debug\Spanzuratoare.exe
+H:\Atestat-Valase Ionut\Spanzuratoare\obj\Debug\Spanzuratoare.pdb
+D:\Programe\C#\Atestat\Spanzuratoare\bin\Debug\Spanzuratoare.exe.config
+D:\Programe\C#\Atestat\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+D:\Programe\C#\Atestat\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+D:\Programe\C#\Atestat\Spanzuratoare\bin\Debug\Newtonsoft.Json.dll
+D:\Programe\C#\Atestat\Spanzuratoare\bin\Debug\Newtonsoft.Json.xml
+D:\Programe\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.csprojAssemblyReference.cache
+D:\Programe\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.Meniu.resources
+D:\Programe\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.Joc.resources
+D:\Programe\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.MyMessageBox.resources
+D:\Programe\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+D:\Programe\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.cache
+D:\Programe\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.CoreCompileInputs.cache
+D:\Programe\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.CopyComplete
+D:\Programe\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.exe
+D:\Programe\C#\Atestat\Spanzuratoare\obj\Debug\Spanzuratoare.pdb
