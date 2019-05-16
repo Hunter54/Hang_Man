@@ -13,25 +13,19 @@ namespace Spanzuratoare
     public partial class Joc : Form
     {
 
-        public static string text;
+        public string text;
         char[] array;
         int mistakes = 0;
-        int maxmistakes = 7;
-        int difficulty;
-        int timp = 60;
+        const int maxmistakes = 7;
+        int timp = 45;
 		PictureBox[] linie;
         Label[] litera;
         Button[] butoane;
-        Random rn = new Random();
 
-        public Joc(int difficulty)
+        public Joc( int difficulty,string text)
         {
             InitializeComponent();
-            this.difficulty = difficulty;
-            if (difficulty == 0)
-                text = Meniu.cuvinte0[rn.Next(1,Meniu.cuvinte0.Length)-1];
-            else if (difficulty == 1 || difficulty ==2)
-                text = Meniu.cuvinte1[rn.Next(1,Meniu.cuvinte1.Length) - 1];
+			this.text = text;
             array = text.ToCharArray();
             creare();
             if (difficulty == 2)
@@ -56,7 +50,7 @@ namespace Spanzuratoare
                 timer1.Enabled = false;
 				mistakes++;
 				DesenImag();
-				if (MyMessageBox.ShowBox("Ai murit, Cuvantul corect era " + text) == "2")
+				if (MyMessageBox.ShowBox("Ai murit, Cuvantul corect era " + text,text) == "2")
 				{
 					this.DialogResult = DialogResult.OK;
 				}
@@ -137,12 +131,12 @@ namespace Spanzuratoare
 
             timp--;
             label12.Text = timp.ToString();
-            if (timp <= 10)
+            if (timp <= 15)
                 label12.ForeColor = Color.Red;
             if (timp == 0)
             {
                 timer1.Enabled = false;
-				if (MyMessageBox.ShowBox("Ai pierdut, Cuvantul corect era " + text) == "2")
+				if (MyMessageBox.ShowBox("Ai pierdut, Cuvantul corect era " + text,text) == "2")
 				{
 					this.DialogResult = DialogResult.OK;
 				}

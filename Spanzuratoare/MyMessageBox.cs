@@ -21,29 +21,41 @@ namespace Spanzuratoare
 
         static string button_id;
 
+		public static string ShowBox(string txtMessage,string text)
+		{
+			newMessageBox = new MyMessageBox();
+			if (!text.Equals(""))
+			{
+				newMessageBox.richTextBox1.Enabled = true;
+				newMessageBox.richTextBox1.Visible = true;
+				newMessageBox.richTextBox1.Text = DefDex.GetDef(text.ToLower());
+				newMessageBox.label1.ForeColor = Color.Red;
+			}
+			else
+			{
+				newMessageBox.pictureBox1.Visible = true;
+				newMessageBox.label1.ForeColor = Color.DarkGreen;
+			}
+			newMessageBox.label1.Text = txtMessage;
+			newMessageBox.ShowDialog();
+
+			newMessageBox.Dispose();
+
+			return button_id;
+		}
+
         public static string ShowBox(string txtMessage)
         {
             newMessageBox = new MyMessageBox();
-                if (!Joc.text.Equals(""))
-                {
-                    newMessageBox.richTextBox1.Enabled = true;
-                    newMessageBox.richTextBox1.Visible = true;
-                    newMessageBox.richTextBox1.Text = DefDex.GetDef(Joc.text.ToLower());
-					newMessageBox.label1.ForeColor = Color.Red;
-                }
-				else
-				{
-					newMessageBox.pictureBox1.Visible = true;
-					newMessageBox.label1.ForeColor = Color.DarkGreen;
-				}
-				newMessageBox.label1.Text = txtMessage;
-				newMessageBox.ShowDialog();
-				
-				newMessageBox.Dispose();
+			newMessageBox.pictureBox1.Visible = true;
+			newMessageBox.label1.ForeColor = Color.DarkGreen;
 
-			//newMessageBox.richTextBox1.Hide();
-			//newMessageBox.label1.Text = txtMessage;
-			//newMessageBox.ShowDialog();
+			newMessageBox.label1.Text = txtMessage;
+
+			newMessageBox.ShowDialog();
+
+			newMessageBox.Dispose();
+
 			return button_id;
 
         }

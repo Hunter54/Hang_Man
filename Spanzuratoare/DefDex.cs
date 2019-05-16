@@ -29,14 +29,14 @@ namespace Spanzuratoare
 				dynamic parsed = JsonConvert.DeserializeObject(text);
 				try
 				{
-					definitie = parsed.definitions[1].internalRep.ToString();
+					definitie = parsed.definitions[0].internalRep.ToString();
 				}
 				catch
 				{
-					definitie = parsed.definitions[0].internalRep.ToString();
+					definitie = parsed.definitions[1].internalRep.ToString();
 				}
                 if(definitie.Length<30)
-                   definitie = parsed.definitions[0].internalRep.ToString();
+                   definitie = parsed.definitions[1].internalRep.ToString();
                 var CharsToRemove = new string[] { "@", "$", "#", "*","&",";","^","%"};
 				foreach(var c in CharsToRemove)
 				{
